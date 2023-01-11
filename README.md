@@ -3,6 +3,5 @@
 
 Primer ejemplo de una clase en UML
 
-![](./diagramas/dia01.svg)
+![](./diagramas/dia01.drawio.svg)
 
-![](./diagramas/dia02.drawio)
